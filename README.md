@@ -1,5 +1,5 @@
 
-# 🤖 ChatBot
+# 🤖 ChatBoot
 
 SBR ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **OpenAI GPT-4o/DALL·E APIs**. It lets users:
 - Chat naturally with an AI assistant
