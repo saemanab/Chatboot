@@ -1,5 +1,5 @@
 
-# 🤖 SBR ChatBot
+# 🤖 ChatBot
 
 SBR ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **OpenAI GPT-4o/DALL·E APIs**. It lets users:
 - Chat naturally with an AI assistant
@@ -44,8 +44,8 @@ SBR ChatBot is a sleek AI-powered chatbot app built using **Flutter** and **Open
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/saadBr/sbr_chatbot
-   cd sbr_chatbot
+   git clone https://github.com/saemanab/Chatboot
+   cd Chatboot
    ```
 
 2. Add your `.env` file:
@@ -75,4 +75,4 @@ Powered by OpenAI's APIs
 
 ## 👤 Author
 
-**Saad El Mabrouk** 
+**Mohamed Abiaba** 
